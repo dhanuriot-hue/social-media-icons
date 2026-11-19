@@ -1,3 +1,8 @@
-body {
-    background-color: rgb(223, 201, 205);
+a {
+    display: inline-block;
+    transition: 0.3s;
+}
+
+a:hover {
+    transform: translateY(-10px);
 }
